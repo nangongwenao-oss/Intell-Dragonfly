@@ -1,0 +1,5 @@
+{
+  "name": "Intell_dragonfly",
+  "description": "AIGC-powered mobile attack surface generation and defense planning platform for red teamers.",
+  "requestFramePermissions": []
+}
